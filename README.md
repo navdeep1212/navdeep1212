@@ -1,5 +1,5 @@
  Hi, I’m Navdeep Chaurasia
-🚀 BCA Graduate | 💻 Web Developer | 🎯 UI/UX Designer 
+🚀 MCA Graduate | 💻 Web Developer | 🎯 UI/UX Designer 
 
 I’m passionate about building real-world digital solutions that solve meaningful problems.
 Currently working on:

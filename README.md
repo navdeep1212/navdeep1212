@@ -8,8 +8,6 @@ Currently working on:
 
 📚 Virtual Library – A smart, accessible library system for college students
 
-⚡ E-Vaahan – Promoting electric mobility through innovative investment models
-
 💡 I believe in learning by building and sharing knowledge with the community.
 
 🛠️ Tech Stack
